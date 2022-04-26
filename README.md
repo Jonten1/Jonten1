@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jonten1
 - 👀 I’m interested in: Coding
-- 🌱 I’m currently learning: HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: HTML, CSS, Javascript, SQL and NoSQL
 - 📫 How to reach me: jonas.tengborg@gmail.com
 
 <!---
